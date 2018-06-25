@@ -2,7 +2,7 @@
 applications:
 - name: attendees
   hosts:
-    - attendees-v1-${random-word}
+    - attendees-v1
     - attendees-production
   memory: 1G
   instances: 1
